@@ -3,7 +3,7 @@
 Ejemplo:
 
 ```
-    const initalForm = {
+    const initialForm = {
         name: '',
         age: 0,
         email: ''
